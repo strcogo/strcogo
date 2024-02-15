@@ -1,4 +1,5 @@
-### Hi there 👋
+Oie! Eu me chamo Pedro, estudo no CEFET-MG
+estou cursando Informatica e estou atualmente no 2º ano
 
 <!--
 **strcogo/strcogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
