@@ -1,4 +1,4 @@
-- Oie 👋
+- Opa👋
 - Eu me chamo Pedro, estudo no CEFET-MG
 - Estou cursando Informatica e estou atualmente no 2º ano
 
