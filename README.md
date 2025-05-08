@@ -1,6 +1,6 @@
 - Opa👋
 - Eu me chamo Pedro, estudo no CEFET-MG
-- Estou cursando Informatica e estou atualmente no 2º ano
+- Estou cursando Informatica e estou atualmente no 3º ano
 
 <!--
 **strcogo/strcogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
